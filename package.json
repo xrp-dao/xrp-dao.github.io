@@ -9,16 +9,24 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@gemwallet/api": "^3.7.0",
+    "axios": "^1.7.2",
+    "bootstrap": "^5.3.3",
+    "buffer": "^6.0.3",
+    "dotenv": "^16.4.5",
+    "next": "14.2.4",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.4"
+    "xrpl": "^3.1.0",
+    "xumm": "^1.7.7",
+    "xumm-sdk": "^1.11.1"
   },
   "devDependencies": {
-    "typescript": "^5",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "eslint": "^8",
-    "eslint-config-next": "14.2.4"
+    "eslint-config-next": "14.2.4",
+    "typescript": "^5"
   }
 }
